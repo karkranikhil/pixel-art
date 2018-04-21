@@ -1,16 +1,21 @@
-# Pixel Art Maker Project
+# Pixel Art
 
-## Table of Contents
+## How to run
+To get started open index.html in the Browser
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Step to play
 
-## Instructions
+select the grid Height that will create the Rows - maximum 30 is allowed
 
-To get started, open `designs.js` and start building out the app's functionality.
+select the grid Width that will create the Columns - maximum 30 is allowed
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+On submit it create the canvas.
 
-## Contributing
+Select the color from the color picker and start filling the color in the canvas.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Thank you note
+Thanks to Google for providing the scholorship 
+Thanks to Udacity for providing the platform to learn and implement this project. 
+
+
+
