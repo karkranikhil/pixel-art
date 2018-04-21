@@ -14,7 +14,7 @@ On submit it create the canvas.
 Select the color from the color picker and start filling the color in the canvas.
 
 ## Playground
-<img src="https://static.pexels.com/photos/248797/pexels-photo-248797.jpeg" />
+<img src="/img/snapshot.png" />
 
 ## Thank you note
 Thanks to Google for providing the scholorship <br/>
