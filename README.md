@@ -14,7 +14,7 @@ On submit it create the canvas.
 Select the color from the color picker and start filling the color in the canvas.
 
 ## Thank you note
-Thanks to Google for providing the scholorship 
+Thanks to Google for providing the scholorship <br/>
 Thanks to Udacity for providing the platform to learn and implement this project. 
 
 
